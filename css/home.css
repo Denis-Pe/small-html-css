@@ -1,0 +1,56 @@
+#page-title {
+    text-align: center;
+}
+
+.home-content {
+    text-align: center;
+}
+
+.home-content p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.list-of-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 126px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list-of-links li {
+    padding: 5px;
+    float: left;
+}
+
+.list-of-links li a {
+    display: flex;
+    align-items: center;
+    color: lightblue;
+    text-decoration: none;
+    height: 32px;
+    width: 32px;
+}
+
+.list-of-links li a:hover {
+    background-image: url(../img/styling_imgs/GitHub-Mark-32px.png);
+}
+
+.img-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-list li {
+    float: left;
+}
+
+.img-list li img {
+    height: 200px;
+}

@@ -1,0 +1,24 @@
+#nav-header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#nav-header li {
+    float: left;
+    padding: 10px;
+    text-align: center;
+}
+
+#nav-header li a {
+    color: #D6D5A8;
+    text-decoration: none;
+}
+
+#nav-header li a:hover {
+    text-decoration:underline;
+}
